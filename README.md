@@ -13,6 +13,9 @@ Bot de atención automatizada desarrollado en Python para un negocio de servicio
 
 ## 📍 Zona de servicio
 San Pedro, Santa Catarina y alrededores
+## 📸 Vista previa del bot
+
+![Demo del bot](demo.png.jpeg)
 
 ## 📞 Contacto
 8183567556
